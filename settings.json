@@ -1,0 +1,7 @@
+{
+  "sensitivity": 1.5,
+  "cooldown": 1.5,
+  "threshold": 80.0,
+  "invert_x": 0,
+  "camera_index": 0
+}
